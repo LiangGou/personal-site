@@ -1,0 +1,21 @@
+# Site settings
+title: Liang Gou
+description: Notes on AI, engineering leadership, and building things — from a Director of AI Engineering exploring the founder path.
+# TODO: replace USERNAME with your GitHub username before deploying
+url: https://lianggou.github.io
+baseurl: ""
+
+# Build
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# jekyll-feed
+feed:
+  path: feed.xml
+  posts_limit: 20
+
+# Exclude from build
+exclude:
+  - README.md
+  - LICENSE

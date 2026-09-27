@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Why I'm writing in the open"
 date: 2026-09-25
 description: "The reason this site exists: building a community around ideas, organically."
@@ -11,4 +11,4 @@ This site changes that. I'll be writing about applied machine learning, engineer
 
 One principle: **no algorithms in the middle.** If you subscribe, you get everything I publish. Growth here happens the old-fashioned way — one reader telling another that something was worth their time.
 
-If that sounds like your kind of corner of the internet, [subscribe](/subscribe/). Let's build this community one thoughtful reader at a time.
+If that sounds like your kind of corner of the internet, [subscribe]({{ site.baseurl }}/subscribe/). Let's build this community one thoughtful reader at a time.

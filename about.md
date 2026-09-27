@@ -1,10 +1,13 @@
 ---
-layout: default
+layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 
-# About
+> An AI enthusiast attempting to find balance through coding, marathoning, meditation, and fasting. Immersed in cutting-edge AI advancements while upholding his engineering principles. When he's not pushing the boundaries of technology, you can find him channeling his inner peace or gearing up for another marathon. Truly, he seeks the perfect blend of mind, body, and technology.
+>
+> — Prompted with GPT-4
 
 **Liang Gou** is a Director of AI Engineering at Cisco, where he leads teams building AI capabilities into real products. A published machine-learning researcher — his DeepVID paper on machine-vision surface-defect inspection continues to be cited — he works at the intersection of research and shipping: from evaluating frontier models to leading production AI programs.
 
@@ -23,8 +26,4 @@ Everything I write here is my own opinion. It doesn't represent my employer, Cis
 ## Elsewhere
 
 - GitHub: [LiangGou](https://github.com/LiangGou)
-- Email: via the [subscribe form](/subscribe/) — I read every reply
-
----
-
-*This site is hand-built and hosted on GitHub Pages. No tracking, no algorithms — just writing.*
+- Email: via the [subscribe form]({{ '/subscribe/' | relative_url }}) — I read every reply

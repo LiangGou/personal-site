@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Is Jev Hype or a Real System One?"
 description: "TypeSafe's Jev claims to be AI's System One — fast, calibrated decisions instead of slow reasoning. I've believed AI needs both systems for a while. I ran Jev on 1,500 log sequences to find out which voice is right."
 ---

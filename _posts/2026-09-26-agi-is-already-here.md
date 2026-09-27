@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It's Shocking — I Feel AGI Is Already Here"
-description: "Two recent experiences — a near-miss on the road and a trip planned entirely by AI — convinced me AGI has quietly arrived."
+description: "Two recent experiences — a near-miss on the road and a trip planned with AI — convinced me AGI has quietly arrived."
 ---
 
 I didn't expect to write this post. But two things happened recently that I can't stop thinking about, and they both point to the same uncomfortable conclusion: AGI isn't coming. In the domains that matter to me, it's already here.
@@ -12,7 +12,7 @@ Last weekend, my daughter had a soccer game in Santa Cruz. Early game — alarm 
 
 Here's the part that actually shocked me: **I never even saw them.** My daughter didn't see them either. We were just lucky.
 
-And then the reflection hit. I've been using Tesla's FSD for about a year and a half now. Searching my memory over at least the last six months, I cannot recall a single moment like that — not one life-threatening scare, not one near-miss where FSD put us in danger. Meanwhile, driving myself for twenty minutes on a groggy Saturday morning, I nearly caused one.
+And then the reflection hit. I've been using Tesla's FSD for about a year and a half now. Searching my memory over at least the last six months, I cannot recall a single moment like that — not one life-threatening scare, not one near-miss where FSD put us in danger. Meanwhile, driving myself for twenty minutes on a groggy Saturday morning, I was in one.
 
 My bar for AGI in autonomous driving was always simple: **make fewer mistakes than I do.** Not perfection — just better than the human baseline. FSD clears that bar. Not in a demo, not on a benchmark — on my own streets, over eighteen months of real driving. The mistakes that trigger reflection are the critical ones, and FSD simply isn't making them while I still am.
 
@@ -24,11 +24,11 @@ The second shock came from Muse, Meta's personal assistant. I handed it two jobs
 
 Start with the trip. I gave it our dates, it searched flights, gave recommendations, and I booked. But the real pain was always hotels. My filter is specific: star rating plus Google rating. I don't trust the ratings on Booking.com or Hotels.com — they're not calibrated to any standard I recognize. But Google's ratings don't live inside those booking platforms, so hotel hunting used to mean cross-referencing everything by hand across half a dozen sites.
 
-I gave Muse my criteria. It went across the platforms, checked Google reviews, verified prices and availability, and came back with a plan. Then it booked — across different platforms, handling registrations and payments through its credential store.
+I gave Muse my criteria. It went across the platforms, checked Google reviews, verified prices and availability, and came back with a plan. Then it worked the bookings — across five different platforms, preparing each reservation for my approval, handling the registrations, logins, and form-filling.
 
-But here's what genuinely shocked me: **it caught things I would never have caught.** At one hotel, the connecting rooms came in two configurations — two twin beds or one queen — and it needed email verification with the hotel to lock in the right one. I would have overlooked that completely. Muse surfaced it, asked me which configuration we needed (twins for the kids, queen for us), found the hotel's email address, and drafted the inquiry with all the reservation and confirmation details filled in. It did that kind of thing dozens of times — confirmation emails, detail checks, loose ends tied up. Hours of meticulous work in a domain where I don't even know what I don't know.
+But here's what genuinely shocked me: **it caught things I would never have caught.** At our Paris hotel, the connecting rooms came in two bedding configurations — two twins or one queen — and the booking didn't say which we'd get. I would have overlooked that completely. Muse surfaced it, asked me which configuration we needed, and sent the hotel an email with all the reservation details filled in to lock it down. It did that kind of thing over and over — confirmation emails drafted, details double-checked, loose ends tied up. Hours of meticulous work in a domain where I don't even know what I don't know.
 
-Then the Schengen visa — the paperwork I hate most in the world. Same treatment: it read the official France visa pages, laid out the process, the document list, the cover letter requirements, registered the accounts, and booked the appointments. A package I would have procrastinated on for weeks, assembled.
+Then the Schengen visa — the paperwork I hate most in the world. Same treatment: it read the official France visa pages, laid out the process, the document list, the cover letter requirements. (The visa portal itself blocked automation, so I registered there myself — the one step it couldn't do for me.) A package I would have procrastinated on for weeks, mapped out and half-assembled.
 
 ## The one thing that gives me pause
 

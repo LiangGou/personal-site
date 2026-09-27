@@ -16,6 +16,10 @@ After three years directing AI engineering at scale, he's exploring founder and 
 - **Engineering leadership** — building teams that ship ambitious technical bets
 - **The founder path** — notes from exploring what's next, in the open
 
+## A note
+
+Everything I write here is my own opinion. It doesn't represent my employer, Cisco, or any organization I've worked for — past or present.
+
 ## Elsewhere
 
 - GitHub: [LiangGou](https://github.com/LiangGou)
